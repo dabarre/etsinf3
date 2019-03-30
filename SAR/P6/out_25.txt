@@ -1,0 +1,64 @@
+(0) Getting "http://www.upv.es" ... ok!
+(1) Getting "http://universidadypatrimonio.net" ... ok!
+(2) Getting "http://www.upv.es/plano/plano-2d-en.html" ... ok!
+(3) Getting "http://www.upv.es/otros/como-llegar-upv/index-en.html" ... ok!
+(4) Getting "http://www.vlc-campus.com/" ... ERROR: HTTPConnectionPool(host='www.vlc-campus.com', port=80): Read timed out. (read timeout=1)
+(5) Getting "http://www.upv.es/otros/como-llegar-upv/campus-gandia/index-en.html" ... ok!
+(6) Getting "http://www.vlc-campus.com/" ... ok!
+(7) Getting "http://www.nectarestudio.com" ... ok!
+(8) Getting "https://www.nectarestudio.com/proyectos/intrasenze/" ... ok!
+(9) Getting "http://www.intrasenze.com/" ... ERROR: HTTPConnectionPool(host='www.intrasenze.com', port=80): Read timed out. (read timeout=1)
+(10) Getting "https://www.nectarestudio.com/en/projects/intrasenze/" ... ok!
+(11) Getting "http://www.intrasenze.com/" ... ERROR: HTTPConnectionPool(host='www.intrasenze.com', port=80): Read timed out. (read timeout=1)
+(12) Getting "https://www.nectarestudio.com/en/contact/" ... ok!
+(13) Getting "https://www.nectarestudio.com/en/terms-and-conditions/" ... ok!
+(14) Getting "https://www.nectarestudio.com/terminos-y-condiciones/" ... ok!
+(15) Getting "https://www.linkedin.com/company-beta/2741692/" ... ok!
+(16) Getting "https://www.linkedin.com/notifications/" ... ok!
+(17) Getting "https://www.linkedin.com/messaging/" ... ok!
+(18) Getting "https://www.linkedin.com/jobs/" ... ok!
+(19) Getting "https://www.linkedin.com/mynetwork/" ... ok!
+(20) Getting "https://www.linkedin.com/feed/" ... ok!
+(21) Getting "https://www.instagram.com/nectarestudio/" ... ok!
+(22) Getting "https://twitter.com/nectarestudio" ... ok!
+(23) Getting "http://support.twitter.com/articles/14226-how-to-find-your-twitter-short-code-or-long-code" ... ok!
+(24) Getting "https://help.twitter.com/ru/using-twitter/twitter-sms" ... ok!
+
+====
+INFO
+====
+Number of tokens: 6167
+Number of processed urls: 22
+Number of pending urls: 382
+--------------------------------------------------
+'valencia' is in: http://universidadypatrimonio.net, http://www.nectarestudio.com, http://www.upv.es/otros/como-llegar-upv/index-en.html, http://www.vlc-campus.com/, https://twitter.com/nectarestudio, https://www.nectarestudio.com/en/contact/, https://www.nectarestudio.com/en/terms-and-conditions/, https://www.nectarestudio.com/terminos-y-condiciones/
+'upv' is in: http://universidadypatrimonio.net, http://www.upv.es, http://www.upv.es/otros/como-llegar-upv/campus-gandia/index-en.html, http://www.upv.es/otros/como-llegar-upv/index-en.html, http://www.upv.es/plano/plano-2d-en.html, http://www.vlc-campus.com/
+'google' is in: http://support.twitter.com/articles/14226-how-to-find-your-twitter-short-code-or-long-code, http://www.nectarestudio.com, http://www.upv.es, http://www.upv.es/otros/como-llegar-upv/campus-gandia/index-en.html, http://www.upv.es/otros/como-llegar-upv/index-en.html, https://help.twitter.com/ru/using-twitter/twitter-sms, https://twitter.com/nectarestudio, https://www.nectarestudio.com/en/contact/, https://www.nectarestudio.com/en/projects/intrasenze/, https://www.nectarestudio.com/en/terms-and-conditions/, https://www.nectarestudio.com/proyectos/intrasenze/, https://www.nectarestudio.com/terminos-y-condiciones/
+'informática' is not indexed
+'momento' is in: https://twitter.com/nectarestudio, https://www.nectarestudio.com/en/terms-and-conditions/, https://www.nectarestudio.com/terminos-y-condiciones/
+'barcelona' is not indexed
+'proyecto' is in: http://www.nectarestudio.com, http://www.vlc-campus.com/
+--------------------------------------------------
+Processed Sites (9):
+	help.twitter.com                  	support.twitter.com               	twitter.com                       	universidadypatrimonio.net        
+	www.instagram.com                 	www.linkedin.com                  	www.nectarestudio.com             	www.upv.es                        
+	www.vlc-campus.com                
+--------------------------------------------------
+Pending Sites (65):
+	about.twitter.com                 	ads.twitter.com                   	apps.upv.es                       	berkeleyprize.org                 
+	blog.twitter.com                  	business.twitter.com              	caip.webs.upv.es                  	californiaspaincampus.org         
+	careers.twitter.com               	congreso.coajaen.es               	congressartis.wordpress.com       	cultura.upv.es                    
+	dev.twitter.com                   	developer.twitter.com             	eduroam.upv.es                    	eepurl.com                        
+	europa.eu                         	generacionespontanea.upv.es       	heritagesofmigration.wordpress.com	i2sysbio.uv.es                    
+	innovacion.upv.es                 	investor.twitterinc.com           	marketing.twitter.com             	media.upv.es                      
+	menteabertaweb.wixsite.com        	pangaea.blogs.uv.es               	plus.google.com                   	policonsulta.upv.es               
+	publishing.unesco.org             	riunet.upv.es                     	sede.upv.es                       	servidorvlc.uv.es                 
+	sostierra2017.blogs.upv.es        	status.twitter.com                	t.co                              	twittercommunity.com              
+	twitterflightschool.com           	universityandheritage.net         	web.fe.up.pt                      	wifi.upv.es                       
+	www.acampa.land                   	www.apr2017.org                   	www.calameo.com                   	www.campushabitat5u.com           
+	www.catedraunescoforum.upv.es     	www.chaireunescoforum.upv.es      	www.csic.es                       	www.educacion.es                  
+	www.encatc.org                    	www.facebook.com                  	www.forumunescochair.upv.es       	www.gandia.es                     
+	www.gandia.upv.es                 	www.info.upv.es                   	www.irun.org                      	www.jasarqueologia.es             
+	www.observatorioabaco.es          	www.sites-vauban.org              	www.uimp.es                       	www.unesco.org                    
+	www.universia.es                  	www.upvx.es                       	www.uv.es                         	www.vives.org                     
+	www.youtube.com                   

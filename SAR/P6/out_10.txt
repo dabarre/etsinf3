@@ -1,0 +1,45 @@
+(0) Getting "http://www.upv.es" ... ok!
+(1) Getting "http://universidadypatrimonio.net" ... ok!
+(2) Getting "http://www.upv.es/plano/plano-2d-en.html" ... ok!
+(3) Getting "http://www.upv.es/otros/como-llegar-upv/index-en.html" ... ok!
+(4) Getting "http://www.vlc-campus.com/" ... ok!
+(5) Getting "http://www.nectarestudio.com" ... ok!
+(6) Getting "https://www.nectarestudio.com/proyectos/intrasenze/" ... ok!
+(7) Getting "http://www.intrasenze.com/" ... ERROR: HTTPConnectionPool(host='www.intrasenze.com', port=80): Read timed out. (read timeout=1)
+(8) Getting "https://www.nectarestudio.com/en/projects/intrasenze/" ... ok!
+(9) Getting "http://www.intrasenze.com/" ... ERROR: HTTPConnectionPool(host='www.intrasenze.com', port=80): Read timed out. (read timeout=1)
+
+====
+INFO
+====
+Number of tokens: 4003
+Number of processed urls: 8
+Number of pending urls: 179
+--------------------------------------------------
+'valencia' is in: http://universidadypatrimonio.net, http://www.nectarestudio.com, http://www.upv.es/otros/como-llegar-upv/index-en.html, http://www.vlc-campus.com/
+'upv' is in: http://universidadypatrimonio.net, http://www.upv.es, http://www.upv.es/otros/como-llegar-upv/index-en.html, http://www.upv.es/plano/plano-2d-en.html, http://www.vlc-campus.com/
+'google' is in: http://www.nectarestudio.com, http://www.upv.es, http://www.upv.es/otros/como-llegar-upv/index-en.html, https://www.nectarestudio.com/en/projects/intrasenze/, https://www.nectarestudio.com/proyectos/intrasenze/
+'informática' is not indexed
+'momento' is not indexed
+'barcelona' is not indexed
+'proyecto' is in: http://www.nectarestudio.com, http://www.vlc-campus.com/
+--------------------------------------------------
+Processed Sites (4):
+	universidadypatrimonio.net        	www.nectarestudio.com             	www.upv.es                        	www.vlc-campus.com                
+	
+--------------------------------------------------
+Pending Sites (53):
+	apps.upv.es                       	berkeleyprize.org                 	caip.webs.upv.es                  	californiaspaincampus.org         
+	congreso.coajaen.es               	congressartis.wordpress.com       	cultura.upv.es                    	eduroam.upv.es                    
+	eepurl.com                        	europa.eu                         	generacionespontanea.upv.es       	heritagesofmigration.wordpress.com
+	i2sysbio.uv.es                    	innovacion.upv.es                 	media.upv.es                      	menteabertaweb.wixsite.com        
+	pangaea.blogs.uv.es               	plus.google.com                   	policonsulta.upv.es               	publishing.unesco.org             
+	riunet.upv.es                     	sede.upv.es                       	servidorvlc.uv.es                 	sostierra2017.blogs.upv.es        
+	twitter.com                       	universityandheritage.net         	web.fe.up.pt                      	wifi.upv.es                       
+	www.acampa.land                   	www.apr2017.org                   	www.calameo.com                   	www.campushabitat5u.com           
+	www.catedraunescoforum.upv.es     	www.chaireunescoforum.upv.es      	www.csic.es                       	www.educacion.es                  
+	www.encatc.org                    	www.facebook.com                  	www.forumunescochair.upv.es       	www.info.upv.es                   
+	www.instagram.com                 	www.irun.org                      	www.jasarqueologia.es             	www.linkedin.com                  
+	www.observatorioabaco.es          	www.sites-vauban.org              	www.uimp.es                       	www.unesco.org                    
+	www.universia.es                  	www.upvx.es                       	www.uv.es                         	www.vives.org                     
+	www.youtube.com                   
