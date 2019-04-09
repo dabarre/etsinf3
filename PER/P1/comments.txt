@@ -1,0 +1,25 @@
+Valor de k:		Valor de err: 
+10.000000		10.368893
+20.000000		6.231306
+30.000000		5.433699
+40.000000		4.935194
+50.000000		5.184447
+60.000000		5.184447
+70.000000		5.234297
+80.000000		5.333998
+90.000000		5.433699
+100.000000		5.433699
+
+
+Valor de k:	Valor de err:(PCA)	Valor de err:(LDA)
+1.000000	64.257228			57.776670
+2.000000	51.694915			45.513460
+3.000000	43.220339			38.584247
+4.000000	29.461615			23.778664
+5.000000	25.174477			16.650050
+6.000000	20.737787			13.758724
+7.000000	17.048853			12.811565
+8.000000	14.705882			11.465603
+9.000000	12.711864			11.116650
+
+como se puede observar en las tablas proyectar a dimensiones menores que el número de clases es mejor hacerlo por lda ya que la tasa de error será inferior que usando PCA. En cambio si la proyección se entre el nḿero de clases y la dimesion de las muestras PCA obtiene menor tasa de error.
