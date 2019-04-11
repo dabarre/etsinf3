@@ -32,6 +32,6 @@ function [W] = lda(X,xl)
 	% Ordenar las eigenvalues obtenidas
     [sortEigvalue, indices] = sort(-diag(eigValue));
 
-	%Es la matriz de los k primeros vectores propios
+	%Es la matriz de proyecciones
     W = eigenVector(:,indices);    
 endfunction

@@ -15,8 +15,7 @@ function[m,W] = pca(X)
     % Ordenar las eigenvalues obtenidas    
     [sortEigvalue, indices] = sort(-diag(eigValue));
 
-    % W es la matriz de los k primeros vectores propios y m la 
-    % media de las muestras
+    % W es la matriz de proyecciones y m la media de las muestras
     W = eigenVector(:,indices);
     m = Xmedia;
 endfunction
